@@ -1,0 +1,43 @@
+# OS generated files #
+######################
+.DS_Store		# OS X - folder personalisation
+._*				# OS X - data fork
+.Spotlight-V100	# OS X - Spotlight index
+ehthumbs.db		# Windows - thumbnail cache of Media Center
+Thumbs.db 		# Windows - thumbnail cache
+Desktop.ini		# Windows - folder personalisation
+
+
+# IDEA project #
+################
+
+# User-specific files:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+
+# Sensitive or high-churn files:
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries
+
+# File-based user-specific project format:
+*.iws
+
+# Low priority configuration files:
+.idea/codeStyleSettings.xml
+.idea/checkstyle-idea.xml
+.idea/inspectionProfiles/
+
+
+# Project related #
+###################
+gurobi_log.txt	# Runtime log
+*.bkp			# Ad hoc backup files
+CopyOf*			# Ad hoc development files
